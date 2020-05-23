@@ -1,3 +1,8 @@
-#test a{
-    background-color: #EEE;
+* {
+    background-color: #363636;
+    font-family: bold;
+}
+#Test h1 {
+    color: #fff;
+    position: center;
 }
